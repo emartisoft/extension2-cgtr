@@ -17,7 +17,7 @@
 1. Chrome'da `chrome://extensions` adresine gidin
 2. Sağ üstten **Geliştirici Modu**'nu (Developer Mode) açın
 3. **Paketlenmemiş Uzantı Yükle** (Load Unpacked) butonuna tıklayın
-4. Bu klasörü seçin (`cgtr-extension`)
+4. Bu klasörü seçin (`extension2-cgtr`)
 5. Eklenti aktif hale gelecektir
 
 Kullanmak için `www.commodore.gen.tr/forum/` adresini ziyaret edin.
