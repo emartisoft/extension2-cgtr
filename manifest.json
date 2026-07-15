@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "CGTR Modern",
+  "version": "1.0",
+  "description": "Commodore.gen.tr forumunu modern bir arayüze dönüştürür",
+  "icons": {
+    "128": "icons/icon128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://www.commodore.gen.tr/forum/*"],
+      "css": ["styles/modern.css"],
+      "js": ["content.js"],
+      "run_at": "document_start"
+    }
+  ],
+  "host_permissions": ["*://www.commodore.gen.tr/*"]
+}
