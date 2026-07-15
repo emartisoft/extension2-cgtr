@@ -21,3 +21,5 @@
 5. Eklenti aktif hale gelecektir
 
 Kullanmak için `www.commodore.gen.tr/forum/` adresini ziyaret edin.
+
+![screenshot](https://github.com/emartisoft/extension2-cgtr/blob/main/screenshot.png?raw=true)
