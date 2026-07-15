@@ -5,8 +5,7 @@
 ## Özellikler
 
 - Forum SMF 1.1.21 temasını modern kart tabanlı bir tasarıma dönüştürür
-- Commodore mavisi renk paleti (mor-mavi tonları)
-- Press Start 2P pixel font ile 3D dönen logo animasyonu
+- 3D dönen logo animasyonu
 - Kullanıcı girişi yapıldığında hoş geldin paneli ve gökkuşağı efekti
 - "Son Mesajlar" bölümü avatar + içerik kart düzeni
 - Konu sayfasındaki resim butonları siyah zeminli metin butonlarına dönüştürür
